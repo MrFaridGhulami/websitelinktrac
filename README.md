@@ -16,9 +16,13 @@ press Enter
 #########################################
 
 Which Os sapurt this script?
+
 Linux
+
 Termux
+
 Windows
+
 Mac
 
 
