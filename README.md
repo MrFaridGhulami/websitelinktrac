@@ -6,7 +6,8 @@ How to Install This Script?
 
 Open the Terminal and download repository 
 git clone https://github.com/MrFaridGhulami/websitelinktrac.git
-cd cd websitelinktrac
+
+cd websitelinktrac
 python3 websitelinktrac.py -u URL
 press Enter
 
